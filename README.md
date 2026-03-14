@@ -1,5 +1,5 @@
 # Guia do Aluno IFSP TADS Campinas
-Seja bem-vindo(a)! Se você está lendo isso, existe a chance que você seja um ingressante na instituição, para facilitar as coisas leia o feito pela instituição.
+Seja bem-vindo(a)! Se você está lendo isso, existe a chance que você seja um ingressante na instituição, para facilitar as coisas leia o [Guia do Aluno Ingressante](#guia-do-aluno-ingressante).
 Esse repositório tem como objetivo facilitar a vida do aluno de TADS do IF de Campinas. Nesse repositório você encontrará:
 
 ---
